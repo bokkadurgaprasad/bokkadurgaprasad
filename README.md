@@ -34,10 +34,10 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-7dp&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-7dp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bokkadurgaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="bokkadurgaprasad" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-7dp&show_icons=true&locale=en&layout=compact" alt="prasad-7dp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bokkadurgaprasad&show_icons=true&locale=en&layout=compact" alt="bokkadurgaprasad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad-7dp&show_icons=true&locale=en" alt="prasad-7dp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bokkadurgaprasad&show_icons=true&locale=en" alt="bokkadurgaprasad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-7dp&" alt="prasad-7dp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bokkadurgaprasad&" alt="bokkadurgaprasad" /></p>
